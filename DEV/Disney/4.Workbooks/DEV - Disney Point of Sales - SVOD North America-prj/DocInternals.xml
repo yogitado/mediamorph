@@ -1,0 +1,532 @@
+﻿<DocInternals>
+  <AlwaysLoose>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+    <bool>false</bool>
+  </AlwaysLoose>
+  <FieldSrcTables>
+    <String>6</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>7</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>8</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>9</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>10</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>11</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>12</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>13</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>14</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>15</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>16</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>17</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>18</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>19</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>20</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>21</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>22</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>23</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>24</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>25</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>26</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>27</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>28</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>29</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>30</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>31</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>32</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>33</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>34</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>35</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>36</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>37</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>38</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>39</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>40</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>41</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>42</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>43</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>44</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>45</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>46</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>47</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>48</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>49</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>50</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>51</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>52</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>53</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>54</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>55</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>56</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>57</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>58</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>59</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>60</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>61</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>62</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>63</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>64</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>65</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>66</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+    <String>67</String>
+    <String>1</String>
+    <String>QA-svod north americanew</String>
+  </FieldSrcTables>
+  <TableViewData>
+    <Pos></Pos>
+    <CtlInfo>
+      <InternalView>
+        <Tables>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>771</Left>
+              <Top>67</Top>
+              <Width>134</Width>
+              <Height>100</Height>
+            </Pos>
+            <Caption>Sheet1</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>36</Left>
+              <Top>100</Top>
+              <Width>100</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>NumberOfMonths</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>668</Left>
+              <Top>195</Top>
+              <Width>135</Width>
+              <Height>64</Height>
+            </Pos>
+            <Caption>NumberOfDays</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>304</Left>
+              <Top>78</Top>
+              <Width>221</Width>
+              <Height>100</Height>
+            </Pos>
+            <Caption>ReleaseDate</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>293</Left>
+              <Top>69</Top>
+              <Width>152</Width>
+              <Height>118</Height>
+            </Pos>
+            <Caption>ReleaseWeek</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>596</Left>
+              <Top>89</Top>
+              <Width>108</Width>
+              <Height>82</Height>
+            </Pos>
+            <Caption>$Syn 1 Table</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>428</Left>
+              <Top>221</Top>
+              <Width>197</Width>
+              <Height>208</Height>
+            </Pos>
+            <Caption>SalesData</Caption>
+          </TableViewTableWinSaveInfo>
+          <TableViewTableWinSaveInfo>
+            <Pos>
+              <Left>664</Left>
+              <Top>241</Top>
+              <Width>100</Width>
+              <Height>100</Height>
+            </Pos>
+            <Caption>Region</Caption>
+          </TableViewTableWinSaveInfo>
+        </Tables>
+        <BroomPoints></BroomPoints>
+        <ConnectionPoints></ConnectionPoints>
+        <ZoomFactor>3FF0000000000000</ZoomFactor>
+      </InternalView>
+      <SourceView></SourceView>
+    </CtlInfo>
+    <Mode>0</Mode>
+  </TableViewData>
+  <Bookmarks>
+    <Bookmark>
+      <Id>BM01</Id>
+      <Name>FY 15 GWS</Name>
+      <ApplyAdditive>false</ApplyAdditive>
+      <FieldItems>
+        <BookmarkFieldItem>
+          <Def>
+            <Name>display_family_name</Name>
+            <Type>PRESENT</Type>
+          </Def>
+          <Locked>false</Locked>
+          <SelectInfo></SelectInfo>
+          <Values>
+            <FieldValue>
+              <Text>Maleficent</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Planes: Fire And Rescue (Aka: Planes 2)</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Guardians Of The Galaxy</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Alexander And The Terrible, Horrible...</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Big Hero 6</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Into The Woods</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Cinderella (2015)</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Tinker Bell And The Legend of the Neverbeast</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Ant-Man</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>McFarland</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Marvel's The Avengers: Age of Ultron</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+            <FieldValue>
+              <Text>Monkey Kingdom</Text>
+              <IsNumeric>false</IsNumeric>
+              <Number>7E37E43C8800759C</Number>
+            </FieldValue>
+          </Values>
+          <ExcludedValues></ExcludedValues>
+          <AndMode>false</AndMode>
+          <OneAndOnlyOne>false</OneAndOnlyOne>
+        </BookmarkFieldItem>
+      </FieldItems>
+      <VariableItems></VariableItems>
+      <SheetId></SheetId>
+      <Objects></Objects>
+      <ApplyLayoutState>false</ApplyLayoutState>
+      <ShowPopupInfo>false</ShowPopupInfo>
+      <InfoText></InfoText>
+      <Owner></Owner>
+      <Groups></Groups>
+      <Show>
+        <Always>true</Always>
+        <Expression>
+          <v>=0</v>
+        </Expression>
+      </Show>
+      <ApplyInputFieldValues>false</ApplyInputFieldValues>
+      <InputFieldItems></InputFieldItems>
+      <ObjectsLayout></ObjectsLayout>
+      <IncludeSelectionState>true</IncludeSelectionState>
+      <IncludeScrollPosition>false</IncludeScrollPosition>
+      <AlternateStateData></AlternateStateData>
+      <ForAnnotations>false</ForAnnotations>
+    </Bookmark>
+  </Bookmarks>
+  <SavedByVersion>12.20.20200.0</SavedByVersion>
+  <ForceBackEndMacroExecution>false</ForceBackEndMacroExecution>
+  <FieldTags>
+    <ScriptBased>
+      <FieldTagData>
+        <Tag>$key</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$hidden</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$system</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>$Info</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$ascii</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+          <String>activity_month</String>
+          <String>reported_format</String>
+          <String>reported_device</String>
+          <String>reported_dest_geo</String>
+          <String>royalty_currency</String>
+          <String>product_type</String>
+          <String>device</String>
+          <String>profit_by_product_type</String>
+          <String>producer_group</String>
+          <String>genre</String>
+          <String>sub_genre</String>
+          <String>segment</String>
+          <String>subsegment</String>
+          <String>subsegment_2</String>
+          <String>client_family</String>
+          <String>licensor</String>
+          <String>country_code</String>
+          <String>country_name</String>
+          <String>region</String>
+          <String>territory</String>
+          <String>pre_order</String>
+          <String>vat</String>
+          <String>statement_type</String>
+          <String>slate_year</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$text</Tag>
+        <FieldNames>
+          <String>$Field</String>
+          <String>$Table</String>
+          <String>$Info</String>
+          <String>activity_month</String>
+          <String>reported_format</String>
+          <String>reported_device</String>
+          <String>reported_dest_geo</String>
+          <String>royalty_currency</String>
+          <String>display_family_name</String>
+          <String>display_issue_name</String>
+          <String>product_type</String>
+          <String>device</String>
+          <String>profit_by_product_type</String>
+          <String>producer_group</String>
+          <String>genre</String>
+          <String>sub_genre</String>
+          <String>segment</String>
+          <String>subsegment</String>
+          <String>subsegment_2</String>
+          <String>customer</String>
+          <String>client_family</String>
+          <String>licensor</String>
+          <String>country_code</String>
+          <String>country_name</String>
+          <String>region</String>
+          <String>territory</String>
+          <String>pre_order</String>
+          <String>vat</String>
+          <String>statement_type</String>
+          <String>slate_year</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$numeric</Tag>
+        <FieldNames>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>activity_week</String>
+          <String>customer_id</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$integer</Tag>
+        <FieldNames>
+          <String>$Rows</String>
+          <String>$Fields</String>
+          <String>$FieldNo</String>
+          <String>activity_week</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$timestamp</Tag>
+        <FieldNames>
+          <String>activity_week</String>
+        </FieldNames>
+      </FieldTagData>
+      <FieldTagData>
+        <Tag>$date</Tag>
+        <FieldNames>
+          <String>activity_week</String>
+        </FieldNames>
+      </FieldTagData>
+    </ScriptBased>
+    <Interactive></Interactive>
+  </FieldTags>
+  <FieldComments></FieldComments>
+  <TableComments></TableComments>
+  <CreatePrjFolder>false</CreatePrjFolder>
+  <LinkedTables></LinkedTables>
+  <AppObjectEntries></AppObjectEntries>
+  <GenericDimensions></GenericDimensions>
+  <GenericMeasures></GenericMeasures>
+  <GenericBookmarks></GenericBookmarks>
+  <ConnectionInfo></ConnectionInfo>
+  <GenericDerivedDefinitions></GenericDerivedDefinitions>
+  <GenericDerivedFields></GenericDerivedFields>
+  <BnfOff>false</BnfOff>
+  <CreatedAfterSingleQuoteExactSearch>false</CreatedAfterSingleQuoteExactSearch>
+</DocInternals>

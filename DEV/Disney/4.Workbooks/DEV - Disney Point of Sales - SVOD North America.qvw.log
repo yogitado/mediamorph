@@ -1,0 +1,47 @@
+﻿2018-02-07 10:04:52      Execution started.
+2018-02-07 10:04:52      QlikView Desktop Version      12.20.20200+2017-12-12 14:32:02+2a4b819
+2018-02-07 10:04:52      CPU Target                    x64
+2018-02-07 10:04:52      Operating System              Windows 8.1 Enterprise  (64 bit edition)
+2018-02-07 10:04:52      Wow64 mode                    Not using Wow64
+2018-02-07 10:04:52      Language                      0409 English (United States) English
+2018-02-07 10:04:52      Country                       1 United States United States
+2018-02-07 10:04:52      MDAC Version                  6.3.9600.16384
+2018-02-07 10:04:52      MDAC Full Install Version     6.3.9600.16384
+2018-02-07 10:04:52      PreferredCompression          2
+2018-02-07 10:04:52      EnableParallelReload          1
+2018-02-07 10:04:52      ParallelizeQvdLoads           1
+2018-02-07 10:04:52      AutoSaveAfterReload           0
+2018-02-07 10:04:52      BackupBeforeReload            0
+2018-02-07 10:04:52      EnableFlushLog                0
+2018-02-07 10:04:52      SaveInfoWhenSavingFile        0
+2018-02-07 10:04:52      UserLogfileCharset            65001
+2018-02-07 10:04:52      OdbcLoginTimeout              -1
+2018-02-07 10:04:52      OdbcConnectionTimeout         -1
+2018-02-07 10:04:52      LongestPossibleLine           1048576
+2018-02-07 10:04:52      MaxCoreMask                   -1
+2018-02-07 10:04:52      ScriptWantsDbWrite            false
+2018-02-07 10:04:52      ScriptWantsExe                false
+2018-02-07 10:04:52      LogFile CodePage Used:        65001
+2018-02-07 10:04:52      UseMemoryFillPattern          1
+2018-02-07 10:04:52      ScriptMode                    Legacy (gives greater system access) (aka qv11 mode)
+2018-02-07 10:04:52      SequentialThreadCount         16
+2018-02-07 10:04:52      NumberOfCores (effective)     4
+2018-02-07 10:04:52      ReloadCodebase                Bnf
+2018-02-07 10:04:52      Reload Executed By            CYBAGE\yogitado
+2018-02-07 10:04:52      Process Executing             QlikView Desktop
+2018-02-07 10:04:52      Process ID                    32192
+2018-02-07 10:04:52 0004 LOAD 4 as extra,activity_month, activity_week, mpm_issue_id, reported_product_type, reported_format, 
+2018-02-07 10:04:52 0005      reported_device, reported_resolution, reported_dest_geo, reported_series_name, 
+2018-02-07 10:04:52 0006      reported_product_name, selling_currency, royalty_currency, royalty_price, selling_price, 
+2018-02-07 10:04:52 0007      units_sold, royalty_gross_amount, royalty_gross_amount_usd, gross_amount, gross_amount_usd, 
+2018-02-07 10:04:52 0008      mm_product_id, display_family_name, display_product_name, display_issue_name, mpm_family_id, 
+2018-02-07 10:04:52 0009      mpm_product_id, product_type, device, profit_by_product_type, producer_group, genre, 
+2018-02-07 10:04:52 0010      sub_genre, segment, subsegment, subsegment_2, subsegment_3, customer_id, customer, 
+2018-02-07 10:04:52 0011      client_family, licensor, country_code, country_name, region, territory, complete_my_season, 
+2018-02-07 10:04:52 0012      total_platform_views, detail_sales_type, general_sales_type, parent_sales_type, 
+2018-02-07 10:04:52 0013      actual_subscribers, minimum_subscribers, pre_order, vat, gross_revenue_ex_vat, 
+2018-02-07 10:04:52 0014      gross_revenue_inc_vat, commission_amount, statement_type, licensee_asset_id, season_number, 
+2018-02-07 10:04:52 0015      slate_year, episode_number, eps_per_season, contract_id
+2018-02-07 10:04:52 0016 FROM [D:\Work\Qlikview\DEV\Disney\3.QVD\QA-svod north americanew.qvd] (qvd)
+2018-02-07 10:04:52      Error: Cannot open file: 'D:\Work\Qlikview\DEV\Disney\3.QVD\QA-svod north americanew.qvd'
+2018-02-07 10:05:02      Execution finished.

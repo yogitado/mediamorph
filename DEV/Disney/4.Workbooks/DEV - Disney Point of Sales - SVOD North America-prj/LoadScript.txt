@@ -1,0 +1,19 @@
+﻿///$tab Main
+// Write your script here. Note: Reload is disabled upon distribution. Enable by changing the checkbox at Settings->Document preferences->Security->Reload.
+
+LOAD 2 as extra, activity_month, activity_week, mpm_issue_id, reported_product_type, reported_format, 
+     reported_device, reported_resolution, reported_dest_geo, reported_series_name, 
+     reported_product_name, selling_currency, royalty_currency, royalty_price, selling_price, 
+     units_sold, royalty_gross_amount, royalty_gross_amount_usd, gross_amount, gross_amount_usd, 
+     mm_product_id, display_family_name, display_product_name, display_issue_name, mpm_family_id, 
+     mpm_product_id, product_type, device, profit_by_product_type, producer_group, genre, 
+     sub_genre, segment, subsegment, subsegment_2, subsegment_3, customer_id, customer, 
+     client_family, licensor, country_code, country_name, region, territory, complete_my_season, 
+     total_platform_views, detail_sales_type, general_sales_type, parent_sales_type, 
+     actual_subscribers, minimum_subscribers, pre_order, vat, gross_revenue_ex_vat, 
+     gross_revenue_inc_vat, commission_amount, statement_type, licensee_asset_id, season_number, 
+     slate_year, episode_number, eps_per_season, contract_id
+FROM [D:\Data From Old Laptop\Projects\MediaMorph\Disney\1.Source Data\disney_svod_new.txt]
+(txt, utf8, embedded labels, delimiter is spaces, msq);
+
+
